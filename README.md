@@ -1,2 +1,4 @@
-# github_actions_03-integration
-Linkedin course "GitHub Actions for CI/CD" chapter 3 challange
+Repo is for the integration workflow.
+
+Workflow for a Python application. That workflow will be called from another workflow.
+
